@@ -4,13 +4,13 @@ export default function App() {
     return (
         <>
             <div className="testimonials-section">
-                <div class="heading">
+                <div className="heading">
                     <span className="heading-spam">Testimonials</span>
                     <h2 className="heading-desc">What People Say ?</h2>
                 </div>
 
                 <div className="testimonials-cards">
-                    <div class="box">
+                    <div className="box">
                         <p>
                             Lorem ipsum dolor amet, an dusino situ constituto, mir es pertin.Lorem ipsum
                             dolor amet, an dusino.
@@ -19,7 +19,7 @@ export default function App() {
                         <span>Graphic Designer</span>
                     </div>
 
-                    <div class="box">
+                    <div className="box">
                         <p>
                             Lorem ipsum dolor amet, an dusino situ constituto, mir es pertin.Lorem ipsum
                             dolor amet, an dusino.
@@ -28,7 +28,7 @@ export default function App() {
                         <span>Graphic Designer</span>
                     </div> <br />
 
-                    <div class="box">
+                    <div className="box">
                         <p>
                             Lorem ipsum dolor amet, an dusino situ constituto, mir es pertin.Lorem ipsum
                             dolor amet, an dusino.
@@ -37,7 +37,7 @@ export default function App() {
                         <span>Graphic Designer</span>
                     </div>
 
-                    <div class="box">
+                    <div className="box">
                         <p>
                             Lorem ipsum dolor amet, an dusino situ constituto, mir es pertin.Lorem ipsum
                             dolor amet, an dusino.
@@ -49,20 +49,20 @@ export default function App() {
 
                 </div>
 
-                <div class="images">
-                    <div class="image image-1">
+                <div className="images">
+                    <div className="image image-1">
                         <img src="https://omex.netlify.app/home-1/img/testimonials/1.png" alt="" />
                     </div>
-                    <div class="image image-2">
+                    <div className="image image-2">
                         <img src="https://omex.netlify.app/home-1/img/testimonials/2.png" alt="" />
                     </div>
-                    <div class="image image-3">
+                    <div className="image image-3">
                         <img src="https://omex.netlify.app/home-1/img/testimonials/3.png" alt="" />
                     </div>
-                    <div class="image image-4">
+                    <div className="image image-4">
                         <img src="https://omex.netlify.app/home-1/img/testimonials/4.png" alt="" />
                     </div>
-                    <div class="image image-5">
+                    <div className="image image-5">
                         <img src="https://omex.netlify.app/home-1/img/testimonials/5.png" alt="" />
                     </div>
                 </div>

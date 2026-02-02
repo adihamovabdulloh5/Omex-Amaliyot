@@ -1,36 +1,39 @@
 .link-section{
     margin-left: 15pc;
     display: inline-block;
+
 }
-.who{
-    float: right;
-    margin-right: 60pc;
-    margin-top: 8pc;
-}
+
 .links{
     float: left;
-    margin-left: 9pc;
+    margin-left: 7pc;
     margin-top: -5pc;
+
 }
 .title{
     font-size: 22px;
+
+}
+h2{
+    font-size: 32px;
 }
 .links p:hover{
     color: #00A99D;
 }
 .social-section{
-    float: right;
-    margin-top: -4pc;
-    width: 50px;
-    height:3pc;
-    border:  1px solid #00A99D;
-    margin-left: 1pc;
-    border-radius: 25px;
-    display: inline-block;
+    width: 250px;
+    margin-top: -18.5pc;
+    margin-left: 52pc;
 }
 .icons{
     font-size: 26px;
     margin-top: 12px;
     margin-left: 12px;
     color: #00A99D;
+}
+.footer-section{
+    padding: 4pc 4pc 15pc 4pc;
+    margin-top: 4pc;
+    display: inline-block;
+
 }

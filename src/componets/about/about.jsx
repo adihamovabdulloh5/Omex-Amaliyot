@@ -6,19 +6,19 @@ export default function App() {
             <div className="mian-section">
                 <div className="section">
                     <div className="about-section">
-                        <span class="fe">About</span>
+                        <span className="fe">About</span>
                         <h2>Explore Our World</h2>
                         <p>
                             Lorem ipsum dolor sit amet, hendrerit omittantur mel, es vidit eu lorem
                             animal iracundia. Ius te altera essent incorrupte. Id alien accu consetetur em,
                             nibh aliquam iracundia. <br /><br />
 
-                            <p class="desc">
+                            <p className="desc">
                                 Lorem ipsum dolor sit amet, hendrerit omittantur melu, est ut
                                 vidit animal iracundia luis.
                             </p>
                         </p>
-                        <a href="#0" class="btn-line">Read More</a>
+                        <a href="#0" className="btn-line">Read More</a>
                     </div>
                 </div>
 

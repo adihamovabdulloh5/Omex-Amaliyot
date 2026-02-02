@@ -10,7 +10,7 @@ export default function App() {
 
                 <div className="contact-login">
 
-                    <div class="heading-login">
+                    <div className="heading-login">
                         <span>Contact</span>
                         <h2>Keep In Touch</h2>
                     </div>
@@ -20,11 +20,11 @@ export default function App() {
                             <input type="text" placeholder="Name"/>
                             <input type="text" placeholder="Email"/>
                         </div>
-                        <div class="textares-section">
+                        <div className="textares-section">
                                 <textarea placeholder="Massege" ></textarea>
                             </div>
                     </div>
-                    <button class="btn btn-block" type="submit">Send Now!</button>
+                    <button className="btn btn-block" type="submit">Send Now!</button>
                 </div>
             </div>
         </>

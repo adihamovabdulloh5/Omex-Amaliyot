@@ -17,14 +17,14 @@ export default function App() {
             <p>Lorem ipsum dolor amet, <br /> an dusino situ constituto, <br /> mir es pertin.</p>
           </div>
 
-          <div class="text-section">
+          <div className="text-section">
             <div className="text">
               <span>features</span>
               <h2>Our Core Features</h2>
               <p>Lorem ipsum dolor sit amet, hendrerit omittant mel, es vidit animal <br />
                 iracundia. Ius te altera essent incorrupt. Id alien accu consetetur em es vidit <br />
                 animal iracundia. Ius te altera essent incorrupt.</p>
-              <a href="#0" class="btn-line">Read More</a>
+              <a href="#0" className="btn-line">Read More</a>
 
             </div>
           </div>

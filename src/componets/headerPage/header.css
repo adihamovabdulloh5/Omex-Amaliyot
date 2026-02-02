@@ -1,8 +1,10 @@
 nav{
     position: fixed;
     /* border: 2px solid; */
-    margin-top: -8px;
+    margin-top: -11px;
     background: #fff;
+    width: 1142px;
+
 }
 a{
     margin-top: 32px;
